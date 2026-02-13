@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "キラフルチェイン / irucaice × 市瀬るぽ × Twinfield × Capchii feat. Hatsune Miku",
+  "base_artist": "irucaice",
+  "createdAt": "2026-02-13T08:40:16.270069Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キラフルチェイン (Mwk Remix)",
+      "artist": "irucaice",
+      "has_synced": false,
+      "path": "select/pl_01_キラフルチェイン_(Mwk_Remix)_irucaice.txt"
+    }
+  ]
+}
